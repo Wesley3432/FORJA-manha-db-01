@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Dados de magnetita",
+        "descricao": "item mais foda do jogo",
+        "preco": 240,
+        "imagem": "../Imagens/silksong-all-tools-featured-2.jpg"
+    },
+    {
+        "id": 2,
+        "name": "multivinculador",
+        "descricao": "recupera 4 mascaras, porem demora mais para fazer o vinculo",
+        "preco": 345,
+        "imagem": "../Imagens/silksong-all-tools-featured-2.jpg"
+    }
+]
