@@ -1,24 +1,60 @@
-*{
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
- }
- *{
-padding: 0;
-margin: 0;
-box-sizing: border-box;
 }
-body{
-padding: 20px;
-font-family: Arial, Helvetica, sans-serif;
+
+body {
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url('../Imagens/bg.slyShop.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
-#results{
-display: flex;
-flex-wrap: wrap;
-align-items: center;
-justify-content: center;
-gap: 20px;
-width: 100%;
-padding: 20px;
-border: 2px solid black;
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.results {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    width: 100%;
+    padding: 20px;
+}
+
+.card {
+    border: 2px solid black;
+    width: 220px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 15px;
+    background-color: #ffffff;
+    color: black;
+    border-radius: 20px;
+    transition: all 200ms linear;
+    text-align: center;
+}
+
+.card:hover {    
+    cursor: pointer;
+    background-color: #b1b1b1;
+    color: white;
+}
+
+.card img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover; /* corta e mantém a proporção */
+    border-radius: 10px;
+    margin-bottom: 10px;
 }

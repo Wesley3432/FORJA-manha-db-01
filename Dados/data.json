@@ -1,16 +1,67 @@
 [
     {
         "id": 1,
-        "name": "Dados de magnetita",
-        "descricao": "item mais foda do jogo",
-        "preco": 240,
-        "imagem": "../Imagens/silksong-all-tools-featured-2.jpg"
+        "name": "Corte Rapido",
+        "descricao": "ataque rapido",
+        "preco": 240.90,
+        "imagem": "../Imagens/corte rapido.jpg"
     },
     {
         "id": 2,
-        "name": "multivinculador",
-        "descricao": "recupera 4 mascaras, porem demora mais para fazer o vinculo",
-        "preco": 345,
-        "imagem": "../Imagens/silksong-all-tools-featured-2.jpg"
+        "name": "Força Inquebravel",
+        "descricao": "aumenta o dano do ataque",
+        "preco": 345.88,
+        "imagem": "../Imagens/força inquebravel.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Sombra afiada",
+        "descricao": "use a esquiva como um ataque",
+        "preco": 199.99,
+        "imagem": "../Imagens/sombra afiada.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Utero brilhante",
+        "descricao": "Troque alma por servos",
+        "preco": 199.99,
+        "imagem": "../Imagens/utero brilhante.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Melodia despreocupada",
+        "descricao": "chance de cancelar o dano de um ataque inimigo",
+        "preco": 199.99,
+        "imagem": "../Imagens/melodia despreocupada.jpg"
+    },{
+        "id": 6,
+        "name": "Espinhos da dor",
+        "descricao": " ao tomar dano sai espinhos do corpo que da dano à inimigos perto",
+        "preco": 199.99,
+        "imagem": "../Imagens/espinhos da dor.jpg"
+    },{
+        "id": 7,
+        "name": "Insignia do defensor",
+        "descricao": "Voce fede",
+        "preco": 199.99,
+        "imagem": "../Imagens/insignia do defensor.jpg"
+    },{
+        "id": 8,
+        "name": "Canção das tecelas",
+        "descricao": "3 aranhas muito incriveis que te ajudam a lutar",
+        "preco": 199.99,
+        "imagem": "../Imagens/cancao das tecelas.jpg"
+    },{
+        "id": 9,
+        "name": "Ganacia Inquebravel",
+        "descricao": "Ganhe mais dinheiro ao matar inimigos",
+        "preco": 199.99,
+        "imagem": "../Imagens/ganancia inquebravel.jpg"
+    },{
+        "id": 10,
+        "name": "Banção de jhonny",
+        "descricao": "Suas mascaras ficam azuis e se recuperam sozinhas com o passar do tempo",
+        "preco": 199.99,
+        "imagem": "../Imagens/bencao de jhonny.jpg"
     }
 ]
